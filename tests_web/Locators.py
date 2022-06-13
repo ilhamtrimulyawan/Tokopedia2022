@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 
 # constans
 class Constants():
-    driver = r"/Users/bukalapak/Documents/PerTestan/reps/ToBL/bl-pretest-master/chromedriver"
+    driver = r"/Users/bukalapak/Documents/PerTestan/TokopediaPython/Tokopedia2022/chromedriver"
     baseURL = "https://www.saucedemo.com/"
 
 
